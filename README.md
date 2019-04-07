@@ -4,7 +4,7 @@ widgetFrino
 - choose your icon, url and colors
 - set of icons you can find here: www.rafalfuczynski.com/frino/icons
 
-demo rafalfuczynski.com/preview/widgetfrino
+demo www.rafalfuczynski.com/preview/widgetfrino
 
 How to use
 
