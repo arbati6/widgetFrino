@@ -1,0 +1,11 @@
+
+#widget_frino {
+    padding: 20px;
+    position: fixed;
+    right: 20px;
+    top: 30vh;
+    font-family: frino;
+    font-size: 24px;
+    text-decoration: none;
+    transition: .5s ease;
+}
